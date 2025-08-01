@@ -17,12 +17,12 @@ const users = {
     balance: "340.00"
   },
   "KURD12": {
-    name: "kurdistan",
+    name: "muhamad ali",
     photo: "https://files.fm/thumb_show.php?i=8eunjnhpab",
     dob: "1990-11-05",
     location: "erbil, kurdistan",
     code: "KURD12",
-    balance: "£45.08"
+    balance: "ESCOIN:12.87"
   }
 };
 
